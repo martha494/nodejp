@@ -1,3 +1,3 @@
-- 👋 Hi, I’m @sinless3
-- A simple nodejs script
+- 👋 Hi, I’m @mattha494
+- A nodejs script to deploy on cloud
 - 
